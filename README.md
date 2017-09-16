@@ -17,19 +17,8 @@ Features
 
 Reviewers
 -------------
-The following people have reviewed the code at the time of the linked commit:
-- Stefan George ([Georgi87](https://github.com/Georgi87)): [b9405cc30de4615e325b1d46c71cdef670bdeadc](https://github.com/ConsenSys/MultiSigWallet/tree/b9405cc30de4615e325b1d46c71cdef670bdeadc)
-
-Being used by
--------------
-- [Aragon](https://aragon.one/)
-- [Bancor](https://www.bancor.network/)
-- Brace
-- [District0x](https://district0x.io/)
-- [Golem](https://golem.network/)
-- [MysteriumNetwork](https://mysterium.network/)
-- [Weifund](http://weifund.io/)
-- StabL
+The following sources have reviewed our smart contracts:
+- (Add Audit Vendors when it goes ot main net)
 
 Install
 -------------
@@ -69,14 +58,6 @@ Transactions to address 0 cannot be done. Any other transaction can be done.
 Security
 -------------
 All contracts are WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-
-Deployed instances with significant funds
--------------
-- Aragon [0xcafe1a77e84698c83ca8931f54a755176ef75f2c](https://etherscan.io/address/0xcafe1a77e84698c83ca8931f54a755176ef75f2c)
-- Bancor [0x5894110995b8c8401bd38262ba0c8ee41d4e4658](https://etherscan.io/address/0x5894110995b8c8401bd38262ba0c8ee41d4e4658)
-- Golem [0x7da82c7ab4771ff031b66538d2fb9b0b047f6cf9](https://etherscan.io/address/0x7da82c7ab4771ff031b66538d2fb9b0b047f6cf9)
-- MysteriumDev [0x7e6614722614e434c4df9901bab31e466ba12fa4](https://etherscan.io/address/0x7e6614722614e434c4df9901bab31e466ba12fa4)
-- District0x [0xd20e4d854c71de2428e1268167753e4c7070ae68](https://etherscan.io/address/0xd20e4d854c71de2428e1268167753e4c7070ae68)
 
 License
 -------------
