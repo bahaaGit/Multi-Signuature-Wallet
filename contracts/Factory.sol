@@ -1,3 +1,4 @@
+/// (may not need this)pragma solidity ^0.4.15
 contract Factory {
 
     /*
