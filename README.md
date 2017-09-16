@@ -23,7 +23,7 @@ The following sources have reviewed our smart contracts:
 Install
 -------------
 ```
-git clone https://github.com/gnosis/MultiSigWallet.git
+git clone https://github.com/Fermion-Project/Multi-Signuature-Wallet
 cd MultiSigWallet
 npm install
 ```
